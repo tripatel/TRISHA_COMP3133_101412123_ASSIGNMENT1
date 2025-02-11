@@ -53,8 +53,5 @@ You can use this JSON for updating an employee's details:
   "department": "IT",
   "employee_photo": "alice_updated_photo.jpg"
 }
-```
 
----
 
-Let me know if you need anything else!
